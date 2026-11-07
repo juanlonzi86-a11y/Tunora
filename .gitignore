@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+android
+__pycache__/
+*.keystore
+client_secret.json
